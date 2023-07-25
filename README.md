@@ -14,4 +14,4 @@ The app is running on React (for now) as the front end with the use of Tailwind 
 
 ### Technologies Used
 
-<img src="https://skillicons.dev/icons?i=html,CSS,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
