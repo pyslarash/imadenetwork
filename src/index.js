@@ -3,6 +3,11 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import 'tailwindcss/tailwind.css'; 
+
+// Add the favicon link here
+const faviconUrl = './src/img/favicon.png';
+document.querySelector("link[rel='icon']").href = faviconUrl;
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
